@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/purnota/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Purnota](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/purnota/) |
+| **Get License** | [Secure Licensing Rights for Purnota](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/purnota/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> তোমার চোখের ঐ নেশায় আমি ডুবি
+> আমার এ রাতের তুমিই যে ছবি
+> (কাছে আসো) এসো আরো কাছে
+> আমার এ বুকে যে আগুন আছে
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
