@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Purnota
+
+This log tracks the cryptographic history and versioning for the song **Purnota** (purnota).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-29T02:35:21.768216 | `v1` | `2c6d7244d230c968cff657d5fa015703b323adc9af57fdf0281e5e7c54b6200a` | `80c939bc785661f86d91b1e684dcbb2b286c870fa1785bf6a1540a6aa0cd624e` | `2026-05-29_purnota-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
